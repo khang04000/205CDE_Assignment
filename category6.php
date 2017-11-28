@@ -120,7 +120,6 @@
 		<ul class="nav navbar-nav">
 				<li><a href="index.php">Home</a></li>
 				<li><a href="category.php">Categories</a></li>
-				<li><a href="faq.php">FAQ</a></li>
 				<li><a href="about_us.php">About us</a></li>
 				<li><a href="contact.php">Contact us</a></li>
 			</ul>
