@@ -1,0 +1,74 @@
+html,
+body {
+   margin:0;
+   padding:0;
+   height:100%;
+}
+
+#container {
+   min-height:100%;
+   position:relative;   
+}
+
+
+footer {
+	margin-top:50px;
+    background: #fff;
+    background: black;
+	height:115px; 
+	display: inline-block;
+	position:absolute;
+
+}
+
+footer p {
+	color:#cccccc;
+	font-size: 1.25em;
+    padding: 0px 0;
+	text-align:center;
+	margin-bottom:10px;
+}
+
+.icon {
+vertical-align:middle;
+  text-align:center;
+  padding-right:12px;
+  margin-top:20px;
+    margin-bottom:-20px;
+}
+
+
+footer .foursquare a {
+background-image:url("picture/icon/twitter2.png");
+}
+
+footer .instagram a {
+background-image:url("picture/icon/instagram.png");
+}
+
+footer .facebook a {
+background-image:url("picture/icon/facebook.png");
+}
+
+footer .twitter a {
+background-image:url("picture/icon/twitter2.png");
+}
+
+footer span{
+	float: center;
+    line-height: 80px;
+    margin-left: 8px;
+    display: inline-block;
+}
+
+footer span  a {
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    display: inline-block;
+    text-indent: -9999px;
+    background-color: #fcfdff;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 16px;
+}

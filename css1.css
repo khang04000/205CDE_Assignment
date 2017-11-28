@@ -1,0 +1,241 @@
+body, html {
+}
+
+
+
+body{
+  background:url("picture/Background/background3.jpg");
+  background-repeat:repeat-y;
+  background-size: cover;
+  background-position: center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+
+}
+
+
+
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+/* Home */
+#home_text {
+  position: absolute;
+  top: 30%;
+  width: 100%;
+  text-align: center;
+  color: #000;
+}
+
+  
+#home_btn {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+}
+
+/* Category */
+.category_header{
+	margin-top:10px;
+	border: 2px solid #000;
+	border-radius: 15px;
+	-moz-border-radius: 15px;
+	height:65px;
+	position: relative;
+    text-align: center;
+	margin-left:35px;
+	margin-right:35px;
+}
+
+.category_header h1{
+	color:#333;
+   position: absolute;
+    top: 50%;
+    left: 0;
+    right: 0;
+    margin-top: -18px;
+
+}
+
+#category_content{
+	padding:20px;
+	margin-top:-10px;
+}
+
+
+
+#category_content img {
+position:relative;
+display: inline-block;
+height:300px;
+width:600px;	
+
+margin-top:30px;
+max-height:100%;
+max-width: 100%;
+
+}
+
+#category_content img:hover {
+  opacity: 0.6;
+
+}
+
+
+#category_content button {
+  position: absolute;
+  top: 50%;
+  left:25%;
+  width: 50%;
+  text-align: center;
+  color: #FFFFFF;
+  background-color: rgba(0, 0, 0, 0.4);
+  font-weight: 700;
+  border-style: solid;
+  border-width: 2px;
+  border-color:#000000;
+
+
+}
+
+
+
+/* Category_1 */
+
+.category_title hr
+{
+  border-color: #EEEEEE -moz-use-text-color #FFFFFF;
+  border-style: solid none;
+  border-width: px 0;
+  margin-left:10px;
+  margin-right:10px;
+}
+
+.category_title h1
+{	
+	margin-top:-10px;
+	margin-bottom:-10px;
+	text-align:center;
+}
+
+.products {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left:100px;
+  margin-right:20px;
+  vertical-align:middle;
+  margin-top:-10px;
+  margin-bottom:20px;
+}
+
+.product-card {
+  flex: 1 16%%;
+  vertical-align:middle;
+  text-align:center;
+  margin-right:20px;
+  margin-top:20px;
+
+
+}
+
+.thumbnail
+{
+  height: 300px;
+  width: 300px;
+  text-align:center;
+  background-color:#ffffff;
+  border: 5px solid #eee;
+  border-radius: 1px;
+ 
+}
+
+.thumbnail:hover
+{
+  	border: 5px solid #917cb1;
+	border-radius: 1px;
+}
+
+#product-image
+{
+   width:250px;
+   height:250px;
+   margin-top:15px;
+   padding-left:5px;
+   padding-right:5px;
+   vertical-align:middle;
+   text-align:center;
+}
+
+.product-info  {
+	text-align: center;
+    display:inline-block;
+    position:relative;
+	margin-top:-10px;
+	margin-bottom:5px;
+}
+
+.product-info a  {
+	font-size:18px;
+	color: #333;
+    text-decoration: none;
+    outline: none;
+}
+
+.product-info .price  {
+    padding: 2px 0;
+}
+
+
+
+
+
+/* About_us */
+
+.about_us 
+{
+	margin-left:100px;
+	margin-right:100px;
+	
+
+}
+
+
+.about_us img
+{
+   height:300px;
+   width:100%;
+
+}
+
+.about_us .text
+{
+	text-align:justify;
+	text-justify:inter-word;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

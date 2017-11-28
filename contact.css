@@ -1,0 +1,62 @@
+
+	.form1{
+		margin-left:400px;
+		margin-right:400px;
+		
+		background-color:white;
+		vertical-align:center;
+		text-align:center;
+		
+	}
+	
+	.form1 div{
+		vertical-align:center;
+		padding-right:50px;
+	}
+
+	#header{
+		background-color:;
+	}
+	
+    .header h3{
+    font-size: 22px;
+    font-weight: 300;
+    color: #555;
+    line-height: 30px;
+    }
+	
+	.message{
+		overflow:hidden;
+	}
+	
+	.btn-lg{
+		width:150px;
+		margin-left:90px;
+	}
+	
+	.header p{   
+	font-size: 17px;
+	color:#a8a8a8;
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+
+	}
+	
+	.help-block{
+	}
+	
+	.help-block li{
+		    float: left;
+	}
+
+    .bigicon {
+        font-size: 35px;
+        color: #ffffff;
+    }
+	
+	.well-sm{
+		background-color:#7f7f7f;
+	}
